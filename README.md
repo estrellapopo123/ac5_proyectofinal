@@ -23,8 +23,7 @@ https://github.com/codigoalphacol/Flutter-Login-Firebase
 https://youtu.be/sHqrawmQq2w
 https://github.com/TarekAlabd/Authentication-With-Amazing-UI-Flutter
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+
 ![14](https://github.com/estrellapopo123/ac5_proyectofinal/assets/144378353/f995d81d-971c-4d46-a513-0975ee220235)
 ![13](https://github.com/estrellapopo123/ac5_proyectofinal/assets/144378353/82f77652-9605-47a8-a863-b17321d22cc8)
 ![12](https://github.com/estrellapopo123/ac5_proyectofinal/assets/144378353/146f380d-4572-4785-a603-bf6af180f99e)
